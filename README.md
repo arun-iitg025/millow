@@ -1,5 +1,15 @@
 # Real Estate NFT DApp
 
+
+
+![Screenshot 2023-08-05 151146](https://github.com/Arunsardar/millow/assets/136061458/f1261634-475f-444a-8fd5-2bf1b5d2a17e)
+![Screenshot 2023-08-05 172054](https://github.com/Arunsardar/millow/assets/136061458/1748ed2e-7abf-4f1a-b342-ce776956c5b7)
+![Screenshot 2023-08-05 172009](https://github.com/Arunsardar/millow/assets/136061458/44563375-5ab1-444d-a46c-1ca37303cddb)
+![Screenshot 2023-08-05 172140](https://github.com/Arunsardar/millow/assets/136061458/cddae627-59cd-470a-9dbc-168992068378)
+
+
+
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
